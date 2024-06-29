@@ -1,6 +1,6 @@
 # Entrepreneur and Engineer at The Cooper Union
 
-#### Technical Skills: Python, AWS, MATLAB
+#### Strengths: Product Design and Development, Fast Learner, Good Communicator
 
 ## Education	 			        		
 - B.S., Mechanical Engineering | The Cooper Union (_Graduating May 2025_)
